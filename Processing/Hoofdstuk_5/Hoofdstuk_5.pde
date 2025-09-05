@@ -33,3 +33,6 @@ totaal = b * c;
 println(totaal);
 totaal = a / d;
 println(totaal);
+
+String mijntekstbmi = "Met een gewicht van 79 kg en een lengte van 180 cm, is jou BMI 34.";
+println(mijntekstbmi);
