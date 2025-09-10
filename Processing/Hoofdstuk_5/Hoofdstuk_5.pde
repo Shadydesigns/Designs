@@ -23,6 +23,11 @@ Samenvoeging = mijnVariabele + mijnVariabele5 + mijnVariabele2 + mijnVariabele3 
 println(Samenvoeging);
 
 //Opdracht5.3
+float gewicht = 110;
+ float lengte = 1.8;
+ float bmi = gewicht / (lengte * lengte);
+ println(bmi); 
+ 
 int totaal = 0; 
 int a = 79;
 int b = 180;
